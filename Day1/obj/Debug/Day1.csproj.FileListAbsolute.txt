@@ -1,0 +1,7 @@
+E:\ITI\Test\Day1\Day1\bin\Debug\Day1.exe.config
+E:\ITI\Test\Day1\Day1\bin\Debug\Day1.exe
+E:\ITI\Test\Day1\Day1\bin\Debug\Day1.pdb
+E:\ITI\Test\Day1\Day1\obj\Debug\Day1.csproj.AssemblyReference.cache
+E:\ITI\Test\Day1\Day1\obj\Debug\Day1.csproj.CoreCompileInputs.cache
+E:\ITI\Test\Day1\Day1\obj\Debug\Day1.exe
+E:\ITI\Test\Day1\Day1\obj\Debug\Day1.pdb
